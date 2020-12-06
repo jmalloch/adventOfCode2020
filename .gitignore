@@ -1,3 +1,4 @@
-!/.gitignore
-!/README.md
-!/.ipynb_checkpoints/
+.gitignore
+requirements.txt
+README.md
+.ipynb_checkpoints
